@@ -1,0 +1,24 @@
+.header
+		{
+			margin-left: -8px;
+			margin-top: -14px;
+			margin-right: -8px;
+		}
+		#search
+		{
+			position: absolute;
+			left: 640px;
+			top:9px;
+		}
+		#picture
+		{
+			position: absolute;
+		}
+		#edit
+		{
+			position: absolute;
+		}
+		#list
+		{
+			position: absolute;
+		}

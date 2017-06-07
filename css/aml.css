@@ -1,0 +1,52 @@
+#header
+		{
+			background-color: white;
+			margin-top: -8px;
+			width: 1365px;
+			margin-left:-7px;
+			height: 62px;
+		}
+		
+	 
+	   
+	   	
+	   	
+	   
+	    li {
+	   	width: 130px;
+	   	display: inline;
+	   	padding: 10px;
+
+	   }
+		#menues
+		{
+			margin-top: -52px;
+			margin-left: 214px;
+		}
+		#write
+		{
+			background-color: lightblue;
+			width: 50%;
+			margin-top:250px;
+		}
+		.button
+		{
+			background-color: #4CAF50;
+			font-size: 40px;
+			display: inline;
+		}
+		#inputs
+		{
+            float:right;
+			width: 25%;
+			margin-left: 73%;
+			margin-top: -250px;
+			
+		
+
+		}
+		input{
+			border-radius: 7px;
+			width: 220px;
+			height: 35px;
+		}
